@@ -26,7 +26,7 @@ To create an interactive Tableau dashboard that shows the key variables influenc
 
 ### Key Insights:
 - **Agricultural Focus:** Emphasizing the importance of the agricultural sector in India, which plays a crucial role in ensuring food security, increasing profits, and contributing to economic stability.
-- **Data-Driven Decisions:** Empowering farmers, agricultural advisors, and policymakers with practical knowledge to make informed decisions and optimize farming operations.
+- **Data-Driven Decisions:** The Tableau visualization effectively communicates India's crop production landscape. By juxtaposing crop yield, total production, and frequency data, the dashboard provides a comprehensive overview of agricultural trends. The visual emphasis on key crops and seasonal variations offers valuable insights for agricultural stakeholders.
 
 ### Link to Project:
 [Agriculture in India: An Overview](https://public.tableau.com/app/profile/prateek.majumder/viz/Data_Wizards_Story_17235774871400/Story1)
